@@ -1,8 +1,8 @@
-# A-World-Away-Hunting-for-Exoplanets-with-AI
+# 🌌 A-World-Away-Hunting-for-Exoplanets-with-AI
 
-# 🌌 A World Away — Hunting for Exoplanets with AI
 
-##NASA Space Apps Hackathon 2025 – Cairo
+
+## NASA Space Apps Hackathon 2025 – Cairo
 
 Using Artificial Intelligence to detect exoplanets from space telescope data (Kepler, TESS, etc.).
 Our goal: build AI-powered pipelines to distinguish true planetary transit signals from noise and false positives.
