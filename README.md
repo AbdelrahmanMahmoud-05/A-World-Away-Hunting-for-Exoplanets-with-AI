@@ -1,13 +1,13 @@
 # A-World-Away-Hunting-for-Exoplanets-with-AI
 
-#🌌 A World Away — Hunting for Exoplanets with AI
+# 🌌 A World Away — Hunting for Exoplanets with AI
 
 ##NASA Space Apps Hackathon 2025 – Cairo
 
 Using Artificial Intelligence to detect exoplanets from space telescope data (Kepler, TESS, etc.).
 Our goal: build AI-powered pipelines to distinguish true planetary transit signals from noise and false positives.
 
-##📖 Project Overview
+## 📖 Project Overview
 
 This project aims to apply Machine Learning (ML) and Deep Learning (DL) techniques to open NASA datasets for exoplanet hunting.
 We focus on:
@@ -22,7 +22,7 @@ Evaluating performance with real-world metrics
 
 Presenting interpretable results for scientists and the public
 
-##✨ Key Features
+## ✨ Key Features
 
 End-to-end pipeline for data cleaning, feature engineering, and training
 
@@ -34,7 +34,7 @@ Visualization tools for light curves & transit signals
 
 Modular structure for easy extension
 
-##📊 Datasets
+## 📊 Datasets
 
 Kepler Mission Data (NASA Exoplanet Archive)
 
