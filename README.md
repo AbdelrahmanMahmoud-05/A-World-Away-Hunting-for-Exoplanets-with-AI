@@ -1,4 +1,4 @@
-# 🌌 A-World-Away-Hunting-for-Exoplanets-with-AI
+# 🌌 ExoNet: AI-Powered Exoplanet Discovery
 
 
 
